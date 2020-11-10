@@ -1,5 +1,7 @@
 import os
 
+os.system('cls')
+
 os.system('color A')
 
 print('''
